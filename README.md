@@ -1,2 +1,3 @@
-This is a simple number guessing game made using Python. The computer picks a number, and you have to guess it within a few tries.
-It’s easy to play and helps beginners understand Python basics like loops and conditions.
+This is a simple number guessing game made using Java. The Guesser guesses a number, and there will be Three players,the player to guess the correct number wins the game.
+There will be three chances for the players if no one guesses it correctly.
+
